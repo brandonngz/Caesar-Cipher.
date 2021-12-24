@@ -30,31 +30,3 @@ while True:
     if close == "no":
         print("Thanks by decoding with me =)")
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Documentation
-# 2 shifted_index % 26 give us the remainder, used as index if the shift was greater than the alphabet. Start counting from 0 
